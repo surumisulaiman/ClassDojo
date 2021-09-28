@@ -1095,7 +1095,9 @@ element.style {
     justify-content: center;
     
 }
-
+.footer_mainpara{
+    font-size: 14px;
+}
 
 .taking_heading{
      width: 100%;
