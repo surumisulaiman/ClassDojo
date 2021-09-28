@@ -1097,6 +1097,7 @@ element.style {
 }
 .footer_mainpara{
     font-size: 14px;
+    justify-content: space-around;
 }
 
 .taking_heading{
