@@ -1165,9 +1165,13 @@ section{
     margin-bottom: 36px;
 }
 .sec_head{
-    padding-top: 24px;
+    padding-top: 26px;
+}
+.secondsection_bottom{
+    background-image: url('images/Frame\ 265.png');
 }
 /***********   Table start  ************/
+
 .table thead{
     display: none;
 }
