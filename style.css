@@ -1098,6 +1098,7 @@ element.style {
 .footer_mainpara{
     font-size: 14px;
     width: 100%;
+    text-align: center;
 }
 
 .taking_heading{
@@ -1113,6 +1114,7 @@ element.style {
 }
 .Conversational_parag{
     width: 100%;
+    text-align: justify;
 }
 .Conversational_bottom{
     display: flex;
@@ -1172,6 +1174,10 @@ section{
 }
 .secondsection_bottom{
     background-image: url('images/Frame\ 265.png');
+    padding-bottom: 20px;
+}
+.schoolmatter_para{
+    text-align: left;
 }
 /***********   Table start  ************/
 
